@@ -10,13 +10,11 @@ criaCartao(
     '12 pares' ,
 )
 
-
 criaCartao(
     'Biologia' ,
     'Qual animal produz o som mais alto?' ,
     'BALEIA AZUL' ,
 )
-
 
 criaCartao(
     'Anatomia' ,
