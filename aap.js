@@ -23,7 +23,7 @@ function viraCartao(){
 
 }
 
-cartao. addeEventListener('click' , ViraCartao)
+cartao. addeEventListener('click' , viraCartao)
 
     container.appendChild(cartao);
 }
